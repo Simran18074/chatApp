@@ -11,6 +11,10 @@ pnpm-debug.log*
 .env.test.local
 .env.production.local
 
+#
+userDirectory.js
+seed.js
+
 # Build
 /build
 /dist
